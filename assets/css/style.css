@@ -161,6 +161,9 @@ input[type=submit] {
     position: static;
     bottom:0;
 }
+.aboutMe{
+    text-align: left;
+}
 @media only screen and (max-width: 790px){
     body{
         margin:0;
