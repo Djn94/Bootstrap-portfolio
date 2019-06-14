@@ -59,6 +59,13 @@ h3{
         clear: both;
         
       }
+.projName{
+color:slategray;
+border-bottom: 5px solid #dddddd;
+margin-left:25%;
+margin-right:25%;
+padding-top: 5px;
+}
 .wordcontainer{
         border:10px solid #dddddd;
         width:75%;
